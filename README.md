@@ -1,1 +1,1 @@
-# mySite
+# mstudentSite
